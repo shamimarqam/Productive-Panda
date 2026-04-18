@@ -66,7 +66,10 @@ A cross Platform Flutter Application to boost your productivity.
 <img width="300" height="600" alt="Simulator Screenshot - iPhone 16 - 2026-04-18 at 11 12 54" src="https://github.com/user-attachments/assets/58f668b7-2499-4ad9-91f3-7a8cc985d671" /><br>
 <img width="300" height="600" alt="Simulator Screenshot - iPhone 16 - 2026-04-18 at 11 13 07" src="https://github.com/user-attachments/assets/2e4698cf-002c-41dc-ade9-a252c5ad4f7e" /><br>
 
-
+## Installation
+1. Go to build folder
+2. Download apk file
+3. Install it on an Android device
 
 ## Design Philosophy
 
