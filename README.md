@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐼 Productive Panda
+# Productive Panda
 
 ### *Stay focused. Build habits. Get things done.*
 A cross Platform Flutter Application to boost your productivity.
